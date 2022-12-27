@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=ad-bak&icon=5&color=3)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
@@ -30,6 +32,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ad-bak&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
