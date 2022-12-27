@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ad-bak&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developer from France🇫🇷</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-bak" alt="ad-bak" /></a> </p>
 
