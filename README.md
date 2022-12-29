@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=ad-bak&icon=5&color=3)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-bak&label=Profile%20views&color=0e75b6&style=flat" alt="ad-bak" /> </p>
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend developer from France🇫🇷</h3>
 
