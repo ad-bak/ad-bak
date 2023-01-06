@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-bak&label=Profile%20views&color=0e75b6&style=flat" alt="ad-bak" /> </p>
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate frontend developer from France🇫🇷</h3>
+<h3 align="center">A passionate JavaScript developer from France🇫🇷</h3>
 
 - 🔭 I’m currently working on [Enedis](https://github.com/WildCodeSchool/2022-09-JS-Reims-project-3-enedis)
 
