@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate JavaScript developer from France🇫🇷</h3>
 
-- 🔭 I’m currently working on [Enedis](https://github.com/WildCodeSchool/2022-09-JS-Reims-project-3-enedis)
 
 - 🌱 I’m currently learning **Next.js**
 
