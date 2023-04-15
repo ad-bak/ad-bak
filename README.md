@@ -3,7 +3,7 @@
 <h3 align="center">A passionate JavaScript developer from France🇫🇷</h3>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working in GitLab, so i'm not active in my GitHub account.
 
 - ⚡ Fun fact **When you pick up a hammer everything looks like a nail**
 
