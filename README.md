@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-bak&label=Profile%20views&color=0e75b6&style=flat" alt="ad-bak" /> </p>
 
 
-![GitHub followers](https://img.shields.io/github/followers/ad-bak?style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/ad-bak?style=social)
 
 
