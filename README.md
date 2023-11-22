@@ -32,4 +32,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---  
-![snake gif](https://github.com/ad-bak/ad-bak/blob/output/github-contribution-grid-snake.gif)
