@@ -29,3 +29,8 @@
 
 ![CodeStats](https://codestats-readme.vercel.app/api?username=ad-bak)
 
+[Check out my GitHub Skyline](https://skyline.github.com/ad-bak/year)
+![Isometric Contributions](https://isometric-contributions.vercel.app/api?username=ad-bak&theme=red-green)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourSpotifyUserId)
+![GitHub Metrics](https://metrics.lecoq.io/ad-bak)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
