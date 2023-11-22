@@ -27,3 +27,10 @@
 
 ---  
 
+
+![Adnan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ad-bak&theme=xcode)
+![Profile views](https://gpvc.arturio.dev/ad-bak)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ad-bak&repo=repository-name&theme=buefy)
+![Adnan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ad-bak)
+<!--START_SECTION:activity-->
+![Spotify](https://novatorem.vercel.app/api/spotify)
