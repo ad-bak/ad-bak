@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-bak&label=Profile%20views&color=0e75b6&style=flat" alt="ad-bak" /> </p>
+![GitHub stars](https://img.shields.io/github/stars/ad-bak?style=social)
+
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate JavaScript developer from France🇫🇷</h3>
 
@@ -26,6 +28,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---  
-![GitHub followers](https://img.shields.io/github/followers/ad-bak?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ad-bak?style=social)
 ![snake gif](https://github.com/ad-bak/ad-bak/blob/output/github-contribution-grid-snake.gif)
