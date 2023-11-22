@@ -17,6 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad-bak&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ad-bak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
