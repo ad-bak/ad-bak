@@ -13,11 +13,6 @@
 
 - ⚡ Fun fact **When you pick up a hammer everything looks like a nail**
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ad-bak/ad-bak/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <h3 align="left">Languages and Tools:</h3>
