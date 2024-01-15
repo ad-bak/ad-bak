@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate JavaScript developer from France🇫🇷</h3>
+<h3 align="center">A passionate developer from France🇫🇷</h3>
 
 
 - 🌱 I’m currently working in GitLab, so i'm not active in my GitHub account.
