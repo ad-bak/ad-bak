@@ -20,8 +20,7 @@
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ad-bak)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad-bak&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
