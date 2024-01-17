@@ -20,12 +20,6 @@
 
 
 # 📊 GitHub Stats:
-![ad-bak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bak&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=ad-bak&show_icons=true)<br/>
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ad-bak)<br/>
-
-
 ![](https://github-readme-stats.vercel.app/api?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad-bak&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
