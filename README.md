@@ -10,6 +10,7 @@
 
 
 - 🌱 I’m currently working in GitLab, so i'm not active in my GitHub account.
+- 🎓 I work in TypeScript
 - 🤟 I absolutely love coding in Go!
 - ⚡ Fun fact **When you pick up a hammer everything looks like a nail**
 
