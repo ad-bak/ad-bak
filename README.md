@@ -14,6 +14,9 @@
 - 🤟 I absolutely love coding in Go!
 - ⚡ Fun fact **When you pick up a hammer everything looks like a nail**
 
+![Snake animation](https://raw.githubusercontent.com/<your-username>/snk/output/snake.svg)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
