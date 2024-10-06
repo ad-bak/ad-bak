@@ -34,9 +34,7 @@
  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
   </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
+
 </p>
 <p>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
