@@ -1,6 +1,3 @@
-<h2 align="left">Languages, Frameworks & Tools I Like</h2>
-
-
 <h3>Languages</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -63,10 +60,3 @@
 </p>
 
 <hr>
-
-<h3>Tools</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
