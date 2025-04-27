@@ -1,7 +1,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Interested in:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -51,12 +51,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ad-bak&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ad-bak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
