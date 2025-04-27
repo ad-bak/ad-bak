@@ -1,18 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-bak&label=Profile%20views&color=0e75b6&style=flat" alt="ad-bak" /> </p>
 
-
-
-![GitHub stars](https://img.shields.io/github/stars/ad-bak?style=social)
-
-
-<h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate developer from France🇫🇷</h3>
-
-
-- 🌱 I’m currently working in GitLab, so i'm not active in my GitHub account.
-- 🎓 I work in TypeScript
-- 🤟 I absolutely love coding in Go!
-- ⚡ Fun fact **When you pick up a hammer everything looks like a nail**
 
 
 <h3 align="left">Languages and Tools:</h3>
