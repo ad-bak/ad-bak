@@ -1,6 +1,5 @@
 <h2 align="left">Languages, Frameworks & Tools I Like</h2>
 
-<hr>
 
 <h3>Languages</h3>
 <p align="left">
